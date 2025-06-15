@@ -12,7 +12,12 @@
 If you use this benchmark in your research, please cite our paper:
 
 ```
-@article{}
+@article{ye2025mmscibench,
+  title={MMSciBench: Benchmarking Language Models on Chinese Multimodal Scientific Problems},
+  author={Ye, Xinwu and Li, Chengfan and Chen, Siming and Wei, Wei and Tang, Xiangru},
+  journal={Findings of the Association for Computational Linguistics: ACL 2025},
+  year={2025}
+}
 ```
 
 ## 🛠 Installation
